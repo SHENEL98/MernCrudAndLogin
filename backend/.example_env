@@ -1,0 +1,5 @@
+NODE_ENV=development
+DATABASE_URI = mongodb+srv://<username>:<password>@cluster0.wibrng3.mongodb.net/?retryWrites=true&w=majority
+ACCESS_TOKEN_SECRET = fa28ad99e33bac5e037309c40421717721baba0b4e394627a1283b66fa87fd747bd25f49cc52ce661f98141fb87e22800a929ba69306106ff99c7f11aac835dc
+REFRESH_TOKEN_SECRET = 9b1b1fa978b737d93a0cd97d80e55261f7c994ad4eb19cdeae4b7821fa4473986e1fdde5cc924279300593b58018030accc7ecb099354a5a2b6eda265ed947a1
+
